@@ -1,316 +1,312 @@
 Sex,ActualYear,Faculty,Avg,AcomStat,scholarship/bursary ,GoOut,MissClass,ModulFailed,Relation,ParentApprov,RelationParent
 Female,2,Arts & Social Sciences,72,3,0,2,3,0,1,1,4
-Male,2,Eco0mic & Management Sciences,75,3,1,2,4,0,0,Yes,Very close
-Male,1,AgriSciences,55,3,0,2,3,0,0,Yes,Very close
+Male,2,Eco0mic & Management Sciences,75,3,1,2,4,0,0,1,4
+Male,1,AgriSciences,55,3,0,2,3,0,0,1,4
 Male,2,Engineering,84,3,0,3,2,0,1,1,4
-Female,2,Arts & Social Sciences,52,3,0,2,1,3,0,Yes,Fair
-Male,2,Eco0mic & Management Sciences,54,3,0,2,1,0,0,Yes,Very close
+Female,2,Arts & Social Sciences,52,3,0,2,1,3,0,1,3
+Male,2,Eco0mic & Management Sciences,54,3,0,2,1,0,0,1,4
 Female,2,Arts & Social Sciences,75,3,0,3,2,0,1,1,4
-Female,2,Arts & Social Sciences,75,3,0,3,0,0,0,Yes,Close
-Male,2,Eco0mic & Management Sciences,64,3,0,2,2,4,0,1,Very close
+Female,2,Arts & Social Sciences,75,3,0,3,0,0,0,1,1
+Male,2,Eco0mic & Management Sciences,64,3,0,2,2,4,0,1,4
 Female,2,Eco0mic & Management Sciences,76,3,0,1,0,0,1,1,4
-Female,1,Science,75,3,0,2,0,0,0,Yes,Very close
+Female,1,Science,75,3,0,2,0,0,0,1,4
 Male,1,Eco0mic & Management Sciences,65,3,0,4,0,0,1,1,4
-Male,2,Arts & Social Sciences,55,3,0,2,3,3,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,54,1,0,2,0,1,0,Yes,Fair
-Male,2,Engineering,62,3,1,2,0,2,0,Yes,Very close
-Female,2,Law,55,3,0,2,2,4,0,1,Very close
-Female,1,Eco0mic & Management Sciences,76,3,0,2,2,0,0,Yes,Very close
-Male,2,Arts & Social Sciences,65,3,0,2,2,2,0,Yes,Very close
+Male,2,Arts & Social Sciences,55,3,0,2,3,3,0,1,4
+Male,2,Eco0mic & Management Sciences,54,1,0,2,0,1,0,1,3
+Male,2,Engineering,62,3,1,2,0,2,0,1,4
+Female,2,Law,55,3,0,2,2,4,0,1,4
+Female,1,Eco0mic & Management Sciences,76,3,0,2,2,0,0,1,4
+Male,2,Arts & Social Sciences,65,3,0,2,2,2,0,1,4
 Male,3,Engineering,69,3,0,2,0,0,1,1,4
-Male,2,Engineering,60,3,0,2,1,3,0,Yes,Very close
-Female,2,Eco0mic & Management Sciences,55,1,0,2,0,1,0,Yes,Very close
-Female,1,Eco0mic & Management Sciences,74,3,0,3,0,0,0,Yes,Very close
-Male,2,Engineering,70,3,0,1,0,0,0,Yes,Very close
-Male,1,Engineering,60,3,0,2,0,0,0,Yes,Very close
+Male,2,Engineering,60,3,0,2,1,3,0,1,4
+Female,2,Eco0mic & Management Sciences,55,1,0,2,0,1,0,1,4
+Female,1,Eco0mic & Management Sciences,74,3,0,3,0,0,0,1,4
+Male,2,Engineering,70,3,0,1,0,0,0,1,4
+Male,1,Engineering,60,3,0,2,0,0,0,1,4
 Male,2,Eco0mic & Management Sciences,54,3,0,1,2,1,1,1,4
 Female,2,Science,75,3,0,1,0,1,1,1,4
-Male,1,Eco0mic & Management Sciences,63,3,0,0,2,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,73,3,0,2,2,0,0,Yes,Very close
+Male,1,Eco0mic & Management Sciences,63,3,0,0,2,0,0,1,4
+Male,2,Eco0mic & Management Sciences,73,3,0,2,2,0,0,1,4
 Male,1,Eco0mic & Management Sciences,57,3,0,1,2,3,1,1,1
-Male,2,Eco0mic & Management Sciences,90,3,0,2,3,4,0,1,Very close
+Male,2,Eco0mic & Management Sciences,90,3,0,2,3,4,0,1,4
 Female,2,Arts & Social Sciences,75,3,0,3,0,0,1,1,1
 Female,1,Eco0mic & Management Sciences,78,3,0,3,2,0,1,1,1
-Female,2,Eco0mic & Management Sciences,55,3,0,1,2,4,1,1,Very close
+Female,2,Eco0mic & Management Sciences,55,3,0,1,2,4,1,1,4
 Male,2,Eco0mic & Management Sciences,70,3,0,1,4,0,1,1,4
 Male,2,Eco0mic & Management Sciences,60,3,0,2,0,3,1,1,4
 Male,1,Arts & Social Sciences,61,3,0,1,0,0,1,1,4
 Male,2,Eco0mic & Management Sciences,63,3,0,0,0,0,1,1,1
 Female,1,Eco0mic & Management Sciences,60,3,0,1,0,1,1,1,4
-Male,2,Eco0mic & Management Sciences,57,3,0,2,1,2,0,Yes,Close
-Male,1,Science,74,1,0,1,0,0,0,Yes,Close
-Male,1,Engineering,89,3,1,2,0,4,1,0,Distant
+Male,2,Eco0mic & Management Sciences,57,3,0,2,1,2,0,1,1
+Male,1,Science,74,1,0,1,0,0,0,1,1
+Male,1,Engineering,89,3,1,2,0,4,1,0,2
 Male,2,Arts & Social Sciences,76,3,0,1,0,0,1,1,1
-Female,1,Medicine and Health Services,80,1,0,2,2,0,0,Yes,Very close
+Female,1,Medicine and Health Services,80,1,0,2,2,0,0,1,4
 Male,2,Economic & Management Sciences,66,3,1,1,4,0,1,1,3
-Female,1,Medicine and Health Services,80,3,0,2,0,0,0,Yes,Very close
-Female,2,Law,70,3,0,2,0,3,0,Yes,Very close
-Female,3,Education,65,3,0,2,0,1,0,Yes,Very close
-Female,1,Science,75,3,0,3,2,0,0,Yes,Close
-Female,2,Engineering,63,3,0,2,0,0,0,Yes,Close
+Female,1,Medicine and Health Services,80,3,0,2,0,0,0,1,4
+Female,2,Law,70,3,0,2,0,3,0,1,4
+Female,3,Education,65,3,0,2,0,1,0,1,4
+Female,1,Science,75,3,0,3,2,0,0,1,1
+Female,2,Engineering,63,3,0,2,0,0,0,1,1
 Female,1,Eco0mic & Management Sciences,80,3,0,1,0,0,1,1,4
-Female,2,,65,3,1,2,1,1,0,Yes,Very close
 Female,1,Science,75,3,0,1,3,0,1,1,4
 Male,2,Science,65,3,0,1,0,0,1,1,4
 Male,4,AgriSciences,76,3,0,2,0,0,1,1,4
 Female,2,Science,65,2,1,1,0,0,1,1,4
-Male,1,Arts & Social Sciences,58,3,0,2,2,0,0,Yes,Very close
-Female,2,Eco0mic & Management Sciences,95.22,1,0,1,0,0,0,Yes,Close
-Female,1,AgriSciences,60,3,0,3,0,1,0,0,Very close
+Male,1,Arts & Social Sciences,58,3,0,2,2,0,0,1,4
+Female,2,Eco0mic & Management Sciences,95.22,1,0,1,0,0,0,1,1
+Female,1,AgriSciences,60,3,0,3,0,1,0,0,4
 Male,2,Eco0mic & Management Sciences,65,3,0,1,0,2,1,1,4
-Female,2,Law,60,,0,3,2,0,0,Yes,Very close
+Female,2,Law,60,,0,3,2,0,0,1,4
 Male,2,Eco0mic & Management Sciences,58,3,0,2,0,0,1,0,4
-Male,3,AgriSciences,55,3,1,1,1,3,0,Yes,Very close
-Female,3,Medicine and Health Services,71,3,0,2,0,0,0,Yes,Very close
+Male,3,AgriSciences,55,3,1,1,1,3,0,1,4
+Female,3,Medicine and Health Services,71,3,0,2,0,0,0,1,4
 Female,3,Arts & Social Sciences,60,3,0,1,0,0,1,1,4
-Female,2,Eco0mic & Management Sciences,70,3,0,1,3,0,0,Yes,Very close
+Female,2,Eco0mic & Management Sciences,70,3,0,1,3,0,0,1,4
 Female,2,Eco0mic & Management Sciences,60,3,0,2,0,1,1,1,4
-Female,3,Eco0mic & Management Sciences,64,3,0,2,0,1,0,Yes,Very close
+Female,3,Eco0mic & Management Sciences,64,3,0,2,0,1,0,1,4
 Female,3,Science,84,2,1,2,0,0,1,1,4
-Female,2,Eco0mic & Management Sciences,60,3,0,1,1,2,0,Yes,Very close
-Male,3,Medicine and Health Services,61,1,1,2,0,1,0,Yes,Very close
-Female,2,Law,66,3,0,1,3,1,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,65,3,0,2,1,0,0,Yes,Very close
-Female,2,Engineering,53,3,0,1,2,4,0,1,Very close
-Female,1,AgriSciences,62,3,0,2,0,0,0,Yes,Very close
-Female,2,Science,65,3,0,1,3,0,0,Yes,Very close
+Female,2,Eco0mic & Management Sciences,60,3,0,1,1,2,0,1,4
+Male,3,Medicine and Health Services,61,1,1,2,0,1,0,1,4
+Female,2,Law,66,3,0,1,3,1,0,1,4
+Male,1,Eco0mic & Management Sciences,65,3,0,2,1,0,0,1,4
+Female,2,Engineering,53,3,0,1,2,4,0,1,4
+Female,1,AgriSciences,62,3,0,2,0,0,0,1,4
+Female,2,Science,65,3,0,1,3,0,0,1,4
 Female,3,Arts & Social Sciences,62,3,0,2,1,1,1,1,1
-Male,2,Eco0mic & Management Sciences,61,3,0,2,1,1,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,73,3,0,2,1,0,0,Yes,Fair
-Female,3,Eco0mic & Management Sciences,60,3,0,3,1,0,0,Yes,Close
+Male,2,Eco0mic & Management Sciences,61,3,0,2,1,1,0,1,4
+Male,2,Eco0mic & Management Sciences,73,3,0,2,1,0,0,1,3
+Female,3,Eco0mic & Management Sciences,60,3,0,3,1,0,0,1,1
 Male,2,Eco0mic & Management Sciences,60,3,0,1,0,0,1,1,4
-Male,3,AgriSciences,64,3,0,2,1,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,62,3,0,1,1,1,0,Yes,Very close
+Male,3,AgriSciences,64,3,0,2,1,0,0,1,4
+Male,2,Eco0mic & Management Sciences,62,3,0,1,1,1,0,1,4
 Female,1,Arts & Social Sciences,69,3,0,2,0,0,1,1,4
-Male,2,Eco0mic & Management Sciences,57,3,0,2,2,1,0,0,Fair
+Male,2,Eco0mic & Management Sciences,57,3,0,2,2,1,0,0,3
 Male,1,Eco0mic & Management Sciences,60,3,0,2,0,0,1,0,4
 Male,2,Engineering,60,3,0,1,4,0,1,1,4
 Female,1,Economic & Management Sciences,66,3,1,2,2,3,1,0,4
-Male,1,Science,50,1,0,2,0,3,0,0,
-Male,1,Eco0mic & Management Sciences,70,3,0,1,0,0,0,Yes,Fair
+Male,1,Eco0mic & Management Sciences,70,3,0,1,0,0,0,1,3
 Male,3,Science,65,3,0,1,0,1,1,1,1
-Male,2,Eco0mic & Management Sciences,72,3,0,2,4,0,0,Yes,Close
+Male,2,Eco0mic & Management Sciences,72,3,0,2,4,0,0,1,1
 Female,2,Eco0mic & Management Sciences,62,3,0,2,1,2,1,1,4
-Female,3,Science,76,3,0,1,1,0,0,Yes,Close
+Female,3,Science,76,3,0,1,1,0,0,1,1
 Male,1,AgriSciences,75,3,0,2,0,0,1,1,4
 Male,1,Science,88,3,1,2,0,0,1,1,2
 Female,2,Arts & Social Sciences,61,3,0,2,0,0,1,1,4
-Male,1,Eco0mic & Management Sciences,52,3,0,2,1,4,0,1,Very close
-Female,5,Eco0mic & Management Sciences,79,3,0,2,0,0,0,Yes,Very close
+Male,1,Eco0mic & Management Sciences,52,3,0,2,1,4,0,1,4
+Female,5,Eco0mic & Management Sciences,79,3,0,2,0,0,0,1,4
 Male,1,Engineering,56,1,0,2,0,0,1,1,1
 Male,2,Arts & Social Sciences,70,1,0,2,4,0,1,1,1
-Male,2,Eco0mic & Management Sciences,60,3,0,1,0,0,0,Yes,Very close
+Male,2,Eco0mic & Management Sciences,60,3,0,1,0,0,0,1,4
 Male,2,AgriSciences,57,3,0,1,1,3,1,0,1
-Female,1,Science,64,3,0,2,1,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,60,3,0,1,2,2,0,0,Close
-Male,2,Eco0mic & Management Sciences,74,1,0,1,0,0,0,Yes,Very close
+Female,1,Science,64,3,0,2,1,0,0,1,4
+Male,2,Eco0mic & Management Sciences,60,3,0,1,2,2,0,0,1
+Male,2,Eco0mic & Management Sciences,74,1,0,1,0,0,0,1,4
 Female,2,Education,73,3,0,2,0,0,1,1,1
-Female,2,Eco0mic & Management Sciences,51,3,0,2,0,4,1,1,Fair
-Male,2,Engineering,60,1,0,3,4,1,0,Yes,Very close
-Female,2,Eco0mic & Management Sciences,60,3,0,3,2,2,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,65,3,1,0,0,0,0,0,Close
+Female,2,Eco0mic & Management Sciences,51,3,0,2,0,4,1,1,3
+Male,2,Engineering,60,1,0,3,4,1,0,1,4
+Female,2,Eco0mic & Management Sciences,60,3,0,3,2,2,0,1,4
+Male,1,Eco0mic & Management Sciences,65,3,1,0,0,0,0,0,1
 Female,1,Arts & Social Sciences,54,3,0,4,4,3,1,1,4
-Male,1,Science,65,1,0,2,0,2,0,Yes,Very close
+Male,1,Science,65,1,0,2,0,2,0,1,4
 Male,2,Eco0mic & Management Sciences,64,3,0,2,3,3,1,1,4
-Female,1,Eco0mic & Management Sciences,61,3,0,1,0,1,0,Yes,Very close
-Male,5,AgriSciences,68,3,0,3,2,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,53,3,0,2,0,4,1,1,Close
+Female,1,Eco0mic & Management Sciences,61,3,0,1,0,1,0,1,4
+Male,5,AgriSciences,68,3,0,3,2,0,0,1,4
+Male,2,Eco0mic & Management Sciences,53,3,0,2,0,4,1,1,1
 Female,1,Economic & Management Sciences,73,2,1,1,0,0,1,0,1
-Female,1,Eco0mic & Management Sciences,50,1,0,2,0,4,1,1,Very close
-Female,1,AgriSciences,64,3,0,1,1,0,0,0,Close
+Female,1,Eco0mic & Management Sciences,50,1,0,2,0,4,1,1,4
+Female,1,AgriSciences,64,3,0,1,1,0,0,0,1
 Female,2,Eco0mic & Management Sciences,73,3,0,2,4,0,1,1,4
 Female,2,Eco0mic & Management Sciences,73,3,0,2,4,0,1,1,4
 Female,2,Eco0mic & Management Sciences,50,3,0,1,0,1,1,1,4
-Female,2,Eco0mic & Management Sciences,68,3,0,3,1,0,0,Yes,Very close
-Male,4,AgriSciences,65,3,0,2,2,2,0,Yes,Very close
-Male,4,Eco0mic & Management Sciences,71,3,0,1,0,0,0,Yes,Very close
-Female,2,Arts & Social Sciences,65,3,0,2,2,1,0,Yes,Close
-Male,3,AgriSciences,60,3,1,2,2,4,0,1,Close
+Female,2,Eco0mic & Management Sciences,68,3,0,3,1,0,0,1,4
+Male,4,AgriSciences,65,3,0,2,2,2,0,1,4
+Male,4,Eco0mic & Management Sciences,71,3,0,1,0,0,0,1,4
+Female,2,Arts & Social Sciences,65,3,0,2,2,1,0,1,1
+Male,3,AgriSciences,60,3,1,2,2,4,0,1,1
 Female,2,Eco0mic & Management Sciences,72,3,0,1,1,0,1,1,3
-Female,3,Science,70,3,0,4,2,0,0,Yes,Very close
+Female,3,Science,70,3,0,4,2,0,0,1,4
 Male,3,Eco0mic & Management Sciences,77,3,0,1,1,0,1,1,4
-Male,2,AgriSciences,60,1,0,3,4,0,0,Yes,Close
-Female,1,Eco0mic & Management Sciences,75,1,1,2,0,1,0,Yes,Close
-Male,2,Eco0mic & Management Sciences,68,1,0,4,0,0,0,Yes,Close
-Female,2,Eco0mic & Management Sciences,65.89,3,1,0,0,1,0,0,Very close
+Male,2,AgriSciences,60,1,0,3,4,0,0,1,1
+Female,1,Eco0mic & Management Sciences,75,1,1,2,0,1,0,1,1
+Male,2,Eco0mic & Management Sciences,68,1,0,4,0,0,0,1,1
+Female,2,Eco0mic & Management Sciences,65.89,3,1,0,0,1,0,0,4
 Male,4,Eco0mic & Management Sciences,63,3,0,2,0,2,1,1,4
 Male,2,Eco0mic & Management Sciences,55,3,0,2,2,2,1,1,4
 Female,2,Eco0mic & Management Sciences,73,3,0,1,1,0,1,0,4
-Female,2,Arts & Social Sciences,80,3,0,2,0,0,0,Yes,Close
-Male,2,Eco0mic & Management Sciences,69,1,0,4,0,0,0,0,Very close
+Female,2,Arts & Social Sciences,80,3,0,2,0,0,0,1,1
+Male,2,Eco0mic & Management Sciences,69,1,0,4,0,0,0,0,4
 Female,2,Arts & Social Sciences,70,3,0,3,4,0,1,1,4
 Male,2,Eco0mic & Management Sciences,73.5,3,0,2,0,0,1,1,4
 Female,2,Science,70,3,0,1,0,0,1,1,4
-Male,1,Eco0mic & Management Sciences,68,3,0,3,1,0,0,Yes,Close
-Female,3,AgriSciences,63,3,1,2,0,0,0,0,Close
-Female,1,Education,77,3,1,3,0,0,0,Yes,Very close
-Female,2,Science,70,3,0,2,0,1,0,0,Very close
-Female,2,Eco0mic & Management Sciences,60,3,0,2,0,4,0,1,Very close
-Female,3,Eco0mic & Management Sciences,50,3,0,2,0,4,1,1,Very close
-Female,1,Science,60,3,0,2,1,1,0,Yes,Very close
-Female,1,Arts & Social Sciences,73,3,0,2,0,0,0,Yes,Close
+Male,1,Eco0mic & Management Sciences,68,3,0,3,1,0,0,1,1
+Female,3,AgriSciences,63,3,1,2,0,0,0,0,1
+Female,1,Education,77,3,1,3,0,0,0,1,4
+Female,2,Science,70,3,0,2,0,1,0,0,4
+Female,2,Eco0mic & Management Sciences,60,3,0,2,0,4,0,1,4
+Female,3,Eco0mic & Management Sciences,50,3,0,2,0,4,1,1,4
+Female,1,Science,60,3,0,2,1,1,0,1,4
+Female,1,Arts & Social Sciences,73,3,0,2,0,0,0,1,1
 Female,2,Arts & Social Sciences,65,3,1,3,0,1,1,1,3
-Female,2,Science,75,3,0,2,0,0,0,Yes,Fair
-Male,1,AgriSciences,62,3,0,1,3,0,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,63,1,0,3,3,0,0,Yes,Fair
+Female,2,Science,75,3,0,2,0,0,0,1,3
+Male,1,AgriSciences,62,3,0,1,3,0,0,1,4
+Male,1,Eco0mic & Management Sciences,63,1,0,3,3,0,0,1,3
 Male,3,Science,62,3,0,1,1,3,1,0,3
-Male,1,Science,60,3,0,3,3,2,0,Yes,Very close
+Male,1,Science,60,3,0,3,3,2,0,1,4
 Female,3,Eco0mic & Management Sciences,55,3,0,2,0,1,1,1,4
 Female,1,Eco0mic & Management Sciences,65,3,0,2,1,0,1,1,4
 Female,1,Science,57,3,1,2,0,1,1,1,4
-Female,2,Arts & Social Sciences,72,3,1,2,0,0,0,Yes,Very close
-Male,2,Science,50,3,0,2,0,4,1,1,Close
-Male,2,Eco0mic & Management Sciences,51,3,0,2,0,4,1,1,Very close
-Male,4,Eco0mic & Management Sciences,88,3,0,2,0,0,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,54,3,0,3,4,3,0,Yes,Very close
-Female,1,Science,68,3,0,3,0,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,59,1,0,1,0,3,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,65,3,0,2,2,0,0,Yes,Close
-Male,1,Eco0mic & Management Sciences,77,1,0,2,0,0,0,Yes,Very close
-Female,1,Eco0mic & Management Sciences,62,3,0,2,0,1,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,60,3,0,0,0,1,0,0,Very close
+Female,2,Arts & Social Sciences,72,3,1,2,0,0,0,1,4
+Male,2,Science,50,3,0,2,0,4,1,1,1
+Male,2,Eco0mic & Management Sciences,51,3,0,2,0,4,1,1,4
+Male,4,Eco0mic & Management Sciences,88,3,0,2,0,0,0,1,4
+Male,1,Eco0mic & Management Sciences,54,3,0,3,4,3,0,1,4
+Female,1,Science,68,3,0,3,0,0,0,1,4
+Male,2,Eco0mic & Management Sciences,59,1,0,1,0,3,0,1,4
+Male,1,Eco0mic & Management Sciences,65,3,0,2,2,0,0,1,1
+Male,1,Eco0mic & Management Sciences,77,1,0,2,0,0,0,1,4
+Female,1,Eco0mic & Management Sciences,62,3,0,2,0,1,0,1,4
+Male,1,Eco0mic & Management Sciences,60,3,0,0,0,1,0,0,4
 Female,1,Eco0mic & Management Sciences,84,3,0,2,0,0,1,1,3
-Female,1,Eco0mic & Management Sciences,70,3,0,2,0,1,0,Yes,Very close
+Female,1,Eco0mic & Management Sciences,70,3,0,2,0,1,0,1,4
 Female,1,Eco0mic & Management Sciences,60,3,0,3,1,0,1,1,4
 Male,3,Eco0mic & Management Sciences,63,3,0,2,3,0,1,1,4
 Female,1,Eco0mic & Management Sciences,80,1,0,2,1,0,1,1,1
 Female,1,Eco0mic & Management Sciences,78,3,0,1,1,1,1,1,4
-Female,2,Eco0mic & Management Sciences,76,1,0,2,1,0,0,Yes,Very close
-Female,2,Arts & Social Sciences,63,3,0,2,0,2,0,0,Close
-Male,3,Science,65,1,0,0,0,2,0,Yes,Close
-Female,2,Eco0mic & Management Sciences,58,3,0,2,0,2,0,0,Fair
-Male,2,Eco0mic & Management Sciences,67,3,0,1,1,0,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,59,3,0,2,2,0,0,Yes,Very close
-Female,2,Arts & Social Sciences,65,3,0,2,0,2,0,0,Close
-Male,3,Eco0mic & Management Sciences,74,1,1,2,3,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,60,3,1,2,0,0,0,Yes,Close
+Female,2,Eco0mic & Management Sciences,76,1,0,2,1,0,0,1,4
+Female,2,Arts & Social Sciences,63,3,0,2,0,2,0,0,1
+Male,3,Science,65,1,0,0,0,2,0,1,1
+Female,2,Eco0mic & Management Sciences,58,3,0,2,0,2,0,0,3
+Male,2,Eco0mic & Management Sciences,67,3,0,1,1,0,0,1,4
+Male,1,Eco0mic & Management Sciences,59,3,0,2,2,0,0,1,4
+Female,2,Arts & Social Sciences,65,3,0,2,0,2,0,0,1
+Male,3,Eco0mic & Management Sciences,74,1,1,2,3,0,0,1,4
+Male,2,Eco0mic & Management Sciences,60,3,1,2,0,0,0,1,1
 Female,2,Eco0mic & Management Sciences,64,3,0,2,4,4,1,1,4
-Male,2,Engineering,65,Non-private accommodation ie. Res,1,1,1,4,1,0,Fair
-Female,1,Eco0mic & Management Sciences,80,3,0,3,2,0,0,Yes,Close
-Male,1,Arts & Social Sciences,64,3,0,3,0,0,0,Yes,Very close
+Male,2,Engineering,65,2,1,1,1,4,1,0,3
+Female,1,Eco0mic & Management Sciences,80,3,0,3,2,0,0,1,1
+Male,1,Arts & Social Sciences,64,3,0,3,0,0,0,1,4
 Female,2,Eco0mic & Management Sciences,75,3,0,0,0,0,1,1,4
 Male,3,Eco0mic & Management Sciences,63,3,0,1,0,0,1,1,1
-Female,3,Education,74,3,0,2,0,0,0,Yes,Very close
-Female,3,Eco0mic & Management Sciences,60,3,0,2,0,1,0,0,Very close
-Male,2,Eco0mic & Management Sciences,60,3,0,1,2,2,0,Yes,Very close
+Female,3,Education,74,3,0,2,0,0,0,1,4
+Female,3,Eco0mic & Management Sciences,60,3,0,2,0,1,0,0,4
+Male,2,Eco0mic & Management Sciences,60,3,0,1,2,2,0,1,4
 Male,2,Eco0mic & Management Sciences,55,3,0,1,0,1,1,1,4
-Female,1,Eco0mic & Management Sciences,55,3,1,0,0,1,0,0,Very close
-Male,1,Eco0mic & Management Sciences,58,3,0,3,2,0,0,Yes,Very close
+Female,1,Eco0mic & Management Sciences,55,3,1,0,0,1,0,0,4
+Male,1,Eco0mic & Management Sciences,58,3,0,3,2,0,0,1,4
 Male,1,Science,92,1,0,2,0,0,1,1,4
 Male,3,Eco0mic & Management Sciences,53,3,0,1,4,4,1,1,4
-Male,3,Eco0mic & Management Sciences,77,1,1,0,0,0,0,Yes,Close
-Male,4,Eco0mic & Management Sciences,63,1,1,2,0,4,1,1,Close
+Male,3,Eco0mic & Management Sciences,77,1,1,0,0,0,0,1,1
+Male,4,Eco0mic & Management Sciences,63,1,1,2,0,4,1,1,1
 Female,1,Eco0mic & Management Sciences,70,3,0,2,1,0,1,1,4
-Female,2,Eco0mic & Management Sciences,57,3,0,3,0,4,0,1,Very close
-Female,2,Engineering,87.6,3,0,2,0,0,0,Yes,Very close
+Female,2,Eco0mic & Management Sciences,57,3,0,3,0,4,0,1,4
+Female,2,Engineering,87.6,3,0,2,0,0,0,1,4
 Female,1,Eco0mic & Management Sciences,60,3,1,2,0,0,1,0,1
-Female,4,Eco0mic & Management Sciences,55,3,0,1,1,4,0,1,Very close
-Male,1,Science,73,1,0,2,4,0,0,Yes,Very close
-Male,1,Science,76,3,0,1,2,0,0,Yes,Very close
-Female,2,Arts & Social Sciences,68,3,0,1,1,3,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,57,3,1,1,1,3,0,0,Close
+Female,4,Eco0mic & Management Sciences,55,3,0,1,1,4,0,1,4
+Male,1,Science,73,1,0,2,4,0,0,1,4
+Male,1,Science,76,3,0,1,2,0,0,1,4
+Female,2,Arts & Social Sciences,68,3,0,1,1,3,0,1,4
+Male,2,Eco0mic & Management Sciences,57,3,1,1,1,3,0,0,1
 Female,1,AgriSciences,63,3,0,2,2,0,1,1,1
-Male,1,Eco0mic & Management Sciences,64,3,1,1,1,0,0,Yes,Very close
-Male,1,Eco0mic & Management Sciences,55,1,0,3,4,1,0,0,Very close
-Male,1,Science,76,3,0,3,4,0,0,0,Very close
-Male,1,Eco0mic & Management Sciences,65,3,0,1,2,0,0,Yes,Close
+Male,1,Eco0mic & Management Sciences,64,3,1,1,1,0,0,1,4
+Male,1,Eco0mic & Management Sciences,55,1,0,3,4,1,0,0,4
+Male,1,Science,76,3,0,3,4,0,0,0,4
+Male,1,Eco0mic & Management Sciences,65,3,0,1,2,0,0,1,1
 Female,1,Eco0mic & Management Sciences,71,3,0,2,0,0,1,0,3
-Male,1,Eco0mic & Management Sciences,73,3,0,3,2,2,0,Yes,Fair
+Male,1,Eco0mic & Management Sciences,73,3,0,3,2,2,0,1,3
 Male,1,Engineering,57,1,0,2,2,0,1,1,4
 Male,5,Engineering,62,3,0,1,0,1,1,1,4
 Male,1,Eco0mic & Management Sciences,75,3,0,1,0,0,1,1,4
-Male,1,Science,69,3,1,2,0,0,0,Yes,Very close
+Male,1,Science,69,3,1,2,0,0,0,1,4
 Male,1,Eco0mic & Management Sciences,65,3,0,4,4,0,1,1,1
 Male,2,Eco0mic & Management Sciences,64,3,0,1,2,3,1,1,4
-Female,2,Science,76,3,0,1,1,2,0,Yes,Very close
+Female,2,Science,76,3,0,1,1,2,0,1,4
 Male,5,Engineering,65,3,1,3,0,0,1,1,3
-Male,1,Science,60,3,0,1,1,1,0,Yes,Close
-Male,1,Eco0mic & Management Sciences,72,1,0,1,1,0,0,Yes,Very close
+Male,1,Science,60,3,0,1,1,1,0,1,1
+Male,1,Eco0mic & Management Sciences,72,1,0,1,1,0,0,1,4
 Female,2,Arts & Social Sciences,69,3,0,2,0,0,1,1,3
 Male,3,Law,68,3,0,3,0,0,1,1,1
 Male,2,Eco0mic & Management Sciences,64,3,0,3,2,1,1,1,1
-Female,1,Education,67,3,1,2,3,1,0,Yes,Very close
+Female,1,Education,67,3,1,2,3,1,0,1,4
 Female,1,AgriSciences,77,3,0,1,0,0,1,1,4
-Female,2,Arts & Social Sciences,83,3,0,2,0,0,0,Yes,Very close
+Female,2,Arts & Social Sciences,83,3,0,2,0,0,0,1,4
 Female,2,Science,61,3,0,3,0,1,1,1,4
-Female,1,Eco0mic & Management Sciences,65,3,0,2,0,0,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,65,3,0,3,0,2,0,Yes,Very close
-Female,2,Eco0mic & Management Sciences,67,1,0,2,0,1,0,Yes,Very close
-Female,1,Engineering,58,3,0,2,2,0,0,Yes,Very close
+Female,1,Eco0mic & Management Sciences,65,3,0,2,0,0,0,1,4
+Male,2,Eco0mic & Management Sciences,65,3,0,3,0,2,0,1,4
+Female,2,Eco0mic & Management Sciences,67,1,0,2,0,1,0,1,4
+Female,1,Engineering,58,3,0,2,2,0,0,1,4
 Female,2,Eco0mic & Management Sciences,61,3,0,2,3,0,1,1,1
 Female,2,Eco0mic & Management Sciences,77,3,0,1,0,0,1,1,1
-Male,2,Science,57,3,0,1,1,1,0,Yes,Close
-Male,1,Eco0mic & Management Sciences,30,3,0,4,4,4,0,Yes,Very close
-Female,1,Eco0mic & Management Sciences,80,3,0,2,1,4,0,1,Very close
+Male,2,Science,57,3,0,1,1,1,0,1,1
+Male,1,Eco0mic & Management Sciences,30,3,0,4,4,4,0,1,4
+Female,1,Eco0mic & Management Sciences,80,3,0,2,1,4,0,1,4
 Male,1,Eco0mic & Management Sciences,65,3,0,1,0,0,1,1,3
-Male,1,Arts & Social Sciences,70,3,0,2,1,0,0,Yes,Very close
-Male,1,Engineering,73,3,0,2,0,0,0,Yes,Very close
+Male,1,Arts & Social Sciences,70,3,0,2,1,0,0,1,4
+Male,1,Engineering,73,3,0,2,0,0,0,1,4
 Female,1,Eco0mic & Management Sciences,89,3,0,0,0,0,1,1,4
-Male,2,Eco0mic & Management Sciences,81,3,0,3,1,1,0,Yes,Very close
-Female,2,Eco0mic & Management Sciences,71,3,0,2,2,0,0,Yes,Fair
+Male,2,Eco0mic & Management Sciences,81,3,0,3,1,1,0,1,4
+Female,2,Eco0mic & Management Sciences,71,3,0,2,2,0,0,1,3
 Female,1,Eco0mic & Management Sciences,76,3,0,2,0,0,1,1,4
 Female,2,Eco0mic & Management Sciences,80,3,0,3,1,0,1,1,4
-Male,2,Medicine and Health Services,62,3,0,1,1,0,0,Yes,Close
-Male,2,Eco0mic & Management Sciences,58,1,0,1,2,1,0,Yes,Close
-Male,1,Eco0mic & Management Sciences,76,3,0,1,0,4,0,1,Fair
-Female,2,Arts & Social Sciences,72,3,0,1,2,0,0,Yes,Very close
+Male,2,Medicine and Health Services,62,3,0,1,1,0,0,1,1
+Male,2,Eco0mic & Management Sciences,58,1,0,1,2,1,0,1,1
+Male,1,Eco0mic & Management Sciences,76,3,0,1,0,4,0,1,3
+Female,2,Arts & Social Sciences,72,3,0,1,2,0,0,1,4
 Male,2,Eco0mic & Management Sciences,55,1,0,2,2,2,1,1,4
 Female,2,Eco0mic & Management Sciences,70,3,1,1,1,1,1,1,1
-Male,3,AgriSciences,61,3,0,2,1,2,0,Yes,Very close
+Male,3,AgriSciences,61,3,0,2,1,2,0,1,4
 Male,1,Science,55,3,0,2,3,1,1,1,4
 Female,3,Eco0mic & Management Sciences,73,3,0,1,0,0,1,1,4
 Male,3,Engineering,74,3,0,0,0,0,1,1,1
-Male,3,Law,63,3,0,1,3,1,0,Yes,Close
+Male,3,Law,63,3,0,1,3,1,0,1,1
 Female,3,Engineering,61,3,0,2,1,1,1,1,4
-Male,2,Science,58,1,0,1,2,0,0,Yes,Very close
+Male,2,Science,58,1,0,1,2,0,0,1,4
 Female,3,Science,63,3,0,3,0,0,1,1,4
 Female,1,Engineering,59,3,0,2,0,0,1,1,4
 Male,2,Eco0mic & Management Sciences,56,1,1,1,1,0,1,0,3
-Male,1,Arts & Social Sciences,54,3,0,2,2,2,0,0,Close
-Female,2,Eco0mic & Management Sciences,61,3,0,0,0,4,0,,Fair
+Male,1,Arts & Social Sciences,54,3,0,2,2,2,0,0,1
+Female,2,Eco0mic & Management Sciences,61,3,0,0,0,4,0,,3
 Male,2,Law,60,1,1,1,0,3,1,1,3
-Female,2,Eco0mic & Management Sciences,80,3,0,4,0,0,0,Yes,Very close
-Male,3,Eco0mic & Management Sciences,80,3,0,2,0,0,0,Yes,Very close
+Female,2,Eco0mic & Management Sciences,80,3,0,4,0,0,0,1,4
+Male,3,Eco0mic & Management Sciences,80,3,0,2,0,0,0,1,4
 Male,1,Eco0mic & Management Sciences,70,3,0,3,2,0,1,0,4
-Male,1,Eco0mic & Management Sciences,77,3,0,2,1,0,0,Yes,Very close
-Female,2,Engineering,60,3,0,2,0,2,0,Yes,Close
+Male,1,Eco0mic & Management Sciences,77,3,0,2,1,0,0,1,4
+Female,2,Engineering,60,3,0,2,0,2,0,1,1
 Male,1,Eco0mic & Management Sciences,76,3,0,2,1,0,1,0,4
 Female,2,Medicine and Health Services,69.7,3,0,3,2,0,1,1,4
 Male,2,Eco0mic & Management Sciences,85,3,0,1,0,2,1,1,3
 Male,2,Eco0mic & Management Sciences,70,3,0,3,2,1,1,1,1
-Male,2,Eco0mic & Management Sciences,63,3,0,1,0,3,0,Yes,Close
-Male,2,Eco0mic & Management Sciences,63,1,0,4,1,0,0,0,Very close
-Male,3,Eco0mic & Management Sciences,66,3,0,2,0,1,0,Yes,Fair
-Male,1,Eco0mic & Management Sciences,85,3,0,2,1,0,0,Yes,Very close
+Male,2,Eco0mic & Management Sciences,63,3,0,1,0,3,0,1,1
+Male,2,Eco0mic & Management Sciences,63,1,0,4,1,0,0,0,4
+Male,3,Eco0mic & Management Sciences,66,3,0,2,0,1,0,1,3
+Male,1,Eco0mic & Management Sciences,85,3,0,2,1,0,0,1,4
 Male,3,Engineering,59,3,0,2,0,2,1,0,1
-Female,2,Eco0mic & Management Sciences,74,1,0,2,0,0,0,0,Fair
+Female,2,Eco0mic & Management Sciences,74,1,0,2,0,0,0,0,3
 Male,1,Eco0mic & Management Sciences,64,3,0,4,0,0,1,1,4
 Male,5,AgriSciences,78,3,0,3,0,0,1,1,4
-Male,2,Arts & Social Sciences,50,3,0,2,0,3,0,Yes,Fair
-Male,2,Science,50,3,0,1,0,3,0,0,Close
-Female,3,Law,75,3,0,2,1,1,0,0,Fair
-Male,1,Science,63,3,0,2,0,0,0,Yes,Very close
-Male,1,Science,56,3,0,0,0,1,0,Yes,Very close
-Female,1,Arts & Social Sciences,61,3,0,3,0,0,0,Yes,Very close
+Male,2,Arts & Social Sciences,50,3,0,2,0,3,0,1,3
+Male,2,Science,50,3,0,1,0,3,0,0,1
+Female,3,Law,75,3,0,2,1,1,0,0,3
+Male,1,Science,63,3,0,2,0,0,0,1,4
+Male,1,Science,56,3,0,0,0,1,0,1,4
+Female,1,Arts & Social Sciences,61,3,0,3,0,0,0,1,4
 Male,1,Arts & Social Sciences,74,3,0,2,1,0,1,1,4
-Female,2,Eco0mic & Management Sciences,60,3,0,2,0,0,0,Yes,Close
+Female,2,Eco0mic & Management Sciences,60,3,0,2,0,0,0,1,1
 Male,2,Eco0mic & Management Sciences,69,3,0,2,2,0,1,1,4
 Female,1,Medicine and Health Services,60,3,0,2,3,0,1,1,4
 Male,1,Eco0mic & Management Sciences,83,3,0,3,0,0,1,1,4
-Male,2,Eco0mic & Management Sciences,56,3,0,4,2,3,0,Yes,Very close
+Male,2,Eco0mic & Management Sciences,56,3,0,4,2,3,0,1,4
 Female,1,Arts & Social Sciences,65,3,0,2,0,2,1,1,4
 Female,2,Medicine and Health Services,79,3,0,1,0,0,1,1,4
-Male,2,Eco0mic & Management Sciences,64,3,0,1,1,1,0,Yes,Very close
-Male,2,Eco0mic & Management Sciences,57,3,0,1,0,0,0,Yes,Very close
+Male,2,Eco0mic & Management Sciences,64,3,0,1,1,1,0,1,4
+Male,2,Eco0mic & Management Sciences,57,3,0,1,0,0,0,1,4
 Female,1,Eco0mic & Management Sciences,58,3,0,3,2,0,1,1,1
 Female,1,Science,71,3,0,1,0,0,1,1,4
 Male,3,Law,66,3,0,1,1,0,1,1,1
 Male,1,Eco0mic & Management Sciences,70,3,0,4,0,1,1,1,4
-Female,1,,51,3,0,2,1,0,0,Yes,Close
-Male,1,Science,58,3,0,2,1,1,0,Yes,Close
-Male,2,Eco0mic & Management Sciences,80,3,0,4,4,0,0,0,Very close
-Female,2,Medicine and Health Services,74,3,0,2,0,0,0,Yes,Very close
+Male,1,Science,58,3,0,2,1,1,0,1,1
+Male,2,Eco0mic & Management Sciences,80,3,0,4,4,0,0,0,4
+Female,2,Medicine and Health Services,74,3,0,2,0,0,0,1,4
 Male,1,Eco0mic & Management Sciences,70,3,0,2,2,0,1,1,3
-Female,2,Eco0mic & Management Sciences,60,3,0,2,0,3,0,0,Close
+Female,2,Eco0mic & Management Sciences,60,3,0,2,0,3,0,0,1
 Female,2,Eco0mic & Management Sciences,58,3,1,1,0,0,1,1,4
-Female,1,,63,3,0,2,1,0,0,0,Close
